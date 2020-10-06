@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my post"
+    },
+    {
+      "title": "Second post ",
+      "content": "Second post content",
+      "id": 2
+    },
+    {
+      "title": "Third post edited ",
+      "content": "Third post content ",
+      "id": 3
+    }
+  ]
+}
